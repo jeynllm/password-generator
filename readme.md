@@ -35,7 +35,7 @@ Provide any additional explanations or details that may help the reader understa
 This project will input the including numbers, letters (uppercase, lowercase, or both), a combination of letters and numbers, and a mix of numbers, letters, and symbols.But it can not input the ryptographic randomness.For enhanced security in critical applications, SecureRandom should be used instead of Random.
 
 Conlusion:
-This project was little difficult for me , that's why i watched so many videos and read more informationd and use another object also.
+This project was little difficult for me , that's why i watched so many videos and read more informations and use another object also.
 
 
 
